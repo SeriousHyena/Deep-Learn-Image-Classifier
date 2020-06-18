@@ -3,7 +3,7 @@ Deep Learning-Image Classifier
 
 Credit for my learning goes mostly to Jeremy Howard at Fastai for actually having an inuition about what I am doing and why. 
 
-This is a binary image classifier that will take an image of a face wearing a face and not wearing a face mask. The goal is to accurately predict whether or not the person is wearing a face mask or not. 
+This is a binary image classifier that will take an image of a face wearing a mask and a face and not wearing a face mask. The goal is to accurately predict whether or not the person is wearing a face mask or not. 
 
 The workflow goes basically like this:
 
