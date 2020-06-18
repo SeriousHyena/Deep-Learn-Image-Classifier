@@ -21,3 +21,7 @@ The workflow goes basically like this:
 * Plot the learning rates and fine-tune again. Remember to save the model with the best results.
 * Clean up the model by removing duplicates and outlier images.
 * ...And finally put the model into production using completely new images from outside of my dataset to verify the model's ability top make accurate predictions.
+
+There are some missing files and folders however, the code in the notebook will allow you to recerate everything on your own if you want.
+
+I highly reccommend Jeremy's fastai course. 
