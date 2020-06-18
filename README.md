@@ -1,6 +1,8 @@
 # Deep-Learn-Image-Classifier
 Deep Learning-Image Classifier
 
+The only file you really need to look at is the 'image_classifier.ipynb' file as it contains the code and resulting outputs. I provided the .csv download links in-case you want to reproduce about the same results as I did.
+
 Credit for my learning goes mostly to Jeremy Howard at Fastai for actually having an inuition about what I am doing and why. 
 
 This is a binary image classifier that will take an image of a face wearing a mask and a face and not wearing a face mask. The goal is to accurately predict whether or not the person is wearing a face mask or not. 
